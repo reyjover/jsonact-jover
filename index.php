@@ -8,9 +8,9 @@ $list = $data['Horses'];
 
 ?>
 
-<h1>MONSTERS</h1>
+<h1>Red Dead Redemption 2 | Horses </h1>
 
-<table>
+<table border="1px">
     <tr>
         <td>Horses</td>
         <td>Coat</td>
